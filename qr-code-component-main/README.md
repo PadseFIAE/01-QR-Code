@@ -50,5 +50,4 @@ W3C Homepage
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@PadseGaming](https://www.frontendmentor.io/profile/padsegaming)
